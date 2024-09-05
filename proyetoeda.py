@@ -19,3 +19,4 @@ iris_df["etiqueta"]=iris.target
 
 
 iris_df.describe()
+## print
